@@ -1,4 +1,4 @@
-﻿yearID,LgID,LeagueName,SubLeagueID,divID,TeamID,Franchise/AffiliationID,Rank/Wpct,G,Ghome,W,L,DivWin,WCWin,LgWin,WSWin,R,AB,H,2B,3B,HR,BB,SO,SB,CS,HBP,SF,RA,ER,ERA,CG,SHO,SV,IP,HA,HRA,BBA,SOA,E,DP,FP,name,City,Team Nickname,Park,attendance,BPF,PPF,4,MiLBFranchise
+yearID,LgID,LeagueName,SubLeagueID,divID,TeamID,Franchise/AffiliationID,Rank/Wpct,G,Ghome,W,L,DivWin,WCWin,LgWin,WSWin,R,AB,H,2B,3B,HR,BB,SO,SB,CS,HBP,SF,RA,ER,ERA,CG,SHO,SV,IP,HA,HRA,BBA,SOA,E,DP,FP,name,City,Team Nickname,Park,attendance,BPF,PPF,4,MiLBFranchise
 1990,KFL,2-Gun League,2-Gun,,SAM2,SAM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Samsung,Samsung,Lions,,,,,4,SAM2
 1990,KFL,2-Gun League,2-Gun,,BGR2,BGR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BINGRE,BINGRE,Eagles,,,,,4,BGR2
 1990,KFL,2-Gun League,2-Gun,,HAI2,HAI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haitai,Haitai,Tigers,,,,,4,HAI2
