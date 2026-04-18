@@ -48,3 +48,7 @@ Bug fixes, missing asset reports, and data corrections are welcome.
 
 - Contribution guide: [CONTRIBUTING.en.md](./CONTRIBUTING.en.md)
 - FAQ: [FAQ.en.md](./FAQ.en.md)
+
+## Special Thanks
+
+- [LazyQuokka1218](https://github.com/LazyQuokka1218)

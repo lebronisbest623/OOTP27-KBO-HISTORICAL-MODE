@@ -48,3 +48,7 @@ kbo-historical/
 
 - 기여 안내: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - 자주 묻는 질문: [FAQ.md](./FAQ.md)
+
+## Special Thanks
+
+- [LazyQuokka1218](https://github.com/LazyQuokka1218)
